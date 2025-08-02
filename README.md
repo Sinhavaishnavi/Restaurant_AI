@@ -90,5 +90,5 @@ This will:
 For feedback or queries, feel free to contact:
 
 **Vaishnavi Sinha**  
-📧 vaishnavisinha476@gmail.com.com  
+📧 vaishnavisinha476@gmail.com  
 📍 India
