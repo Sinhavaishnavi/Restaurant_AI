@@ -26,7 +26,7 @@ To build a regression model that predicts the `Aggregate rating` of a restaurant
 
 ### 1. Clone or Download this Repository
 ```bash
-git clone https://github.com/Sinhavasihnavi/restaurant-rating-prediction.git
+git clone https://github.com/Sinhavasihnavi/Restaurant_AI.git
 cd restaurant-
 rating-prediction
 ```
