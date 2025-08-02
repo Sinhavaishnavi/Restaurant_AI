@@ -8,7 +8,7 @@ This project uses a machine learning model to predict the **aggregate rating** o
 To build a regression model that predicts the `Aggregate rating` of a restaurant using other available features in the dataset.
 
 ---
-
+<img width="1893" height="870" alt="Screenshot 2025-08-03 000640" src="https://github.com/user-attachments/assets/b09c792f-16a2-4b0e-bffb-3d12df429f76" />
 ## 📁 Dataset
 
 - File: `Dataset .csv`
@@ -27,7 +27,8 @@ To build a regression model that predicts the `Aggregate rating` of a restaurant
 ### 1. Clone or Download this Repository
 ```bash
 git clone https://github.com/Sinhavasihnavi/restaurant-rating-prediction.git
-cd restaurant-rating-prediction
+cd restaurant-
+rating-prediction
 ```
 
 ### 2. Create Virtual Environment (Optional but Recommended)
